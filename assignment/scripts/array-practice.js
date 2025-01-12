@@ -37,7 +37,8 @@ console.log('First animal is', firstAnimal);
 //      of the second item from the `animalArray`.
 //      Be sure to console.log this new variable to make sure your code
 //      worked as expected.
-
+let secondAnimal = animalArray[1];
+console.log('Second animal is', secondAnimal);
 
 // 3.b. TODO: Create a variable `lastAnimal` and assign it the value of
 //      the "last" item in `animalArray`, using its array index.
